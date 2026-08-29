@@ -1,6 +1,8 @@
-# NMB Values
+---
+description: Our Principles. Our Promise.
+---
 
-## Our Principles. Our Promise.
+# NMB Values
 
 ### Vision
 

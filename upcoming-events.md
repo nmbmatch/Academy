@@ -20,6 +20,8 @@
 **City / Location:** Rome\
 **Event Date:** August 2026<br>
 
+{% embed url="https://www.youtube.com/embed/1zqd6-fImNE?si=Q47gPWNyNmXTJAEz" %}
+
 Global Forum
 
 ### United Arab Emirates 🇦🇪

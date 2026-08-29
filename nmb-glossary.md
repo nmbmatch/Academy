@@ -1,10 +1,6 @@
-# Overview
-
-**Platform Introduction**
+# NMB Glossary
 
 **Real Matches. Real Value. Act. Grow. Win Together.**
-
-This documentation is organized into five categories:
 
 {% stepper %}
 {% step %}
@@ -37,7 +33,3 @@ Rank requirements and benefits.
 Reward programs and frequently asked questions.
 {% endstep %}
 {% endstepper %}
-
-**Website:** WWW.NMBMATCH.COM
-
-**Public Introduction Version:** V.12.1.8
