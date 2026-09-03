@@ -1,0 +1,111 @@
+{
+  "theme": "mint",
+  "name": "NMB Match",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#22C55E",
+    "dark": "#15803D"
+  },
+  "favicon": "/favicon.svg",
+  "footer": {
+    "socials": {
+      "x": "https://x.com/nmbmatch",
+      "instagram": "https://instagram.com/nmb_match",
+      "youtube": "https://youtube.com/@nmbmatch"
+    }
+  },
+  "contextual": {
+    "options": [
+      "copy",
+      "view",
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ],
+    "display": "header"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Get Started",
+        "pages": [
+          "index",
+          "nmb-match-llc/nmb-match",
+          "nmb-match-llc/core-business-map",
+          "nmb-match-llc/reward-sources",
+          "nmb-match-llc/your-growth-path-on-nmb-match",
+          "nmb-match-llc/new-member-checklist"
+        ]
+      },
+      {
+        "group": "Earnings & Growth",
+        "pages": [
+          "earnings-and-growth",
+          {
+            "group": "Personal Earnings",
+            "pages": [
+              "earnings-and-growth/personal-earnings",
+              "earnings-and-growth/personal-earnings/personal-commisson"
+            ]
+          },
+          {
+            "group": "Team Earnings",
+            "pages": [
+              "earnings-and-growth/team-earnings",
+              "earnings-and-growth/team-earnings/team-earning-structure",
+              "earnings-and-growth/team-earnings/team-earning-rate",
+              "earnings-and-growth/team-earnings/3-layers-team",
+              "earnings-and-growth/team-earnings/how-team-earnings-works"
+            ]
+          },
+          {
+            "group": "Agent Rank",
+            "pages": [
+              "earnings-and-growth/agent-rank",
+              "earnings-and-growth/agent-rank/rank-requirements",
+              "earnings-and-growth/agent-rank/rank-benefits"
+            ]
+          },
+          "earnings-and-growth/rewards-overview"
+        ]
+      },
+      {
+        "group": "Tutorial Guide",
+        "pages": [
+          "tutorial-guide",
+          "tutorial-guide/01-register",
+          "tutorial-guide/02-buy-usdt",
+          "tutorial-guide/03-deposit",
+          "tutorial-guide/04-start-tasks",
+          "tutorial-guide/05-secondary-pin",
+          "tutorial-guide/06-withdraw-usdt",
+          "tutorial-guide/07-sell-usdt"
+        ]
+      },
+      {
+        "group": "Resources",
+        "pages": [
+          "frequent-ask-questions",
+          "nmb-glossary",
+          "what-is-usdt-and-usdc",
+          "news",
+          "upcoming-events",
+          "download",
+          "contact-support"
+        ]
+      },
+      {
+        "group": "About NMB & Trust",
+        "pages": [
+          "about-nmb-and-trust",
+          "about-nmb-and-trust/what-is-nmb-match",
+          "about-nmb-and-trust/about-nmb-match",
+          "about-nmb-and-trust/company-background",
+          "about-nmb-and-trust/entity-registration",
+          "about-nmb-and-trust/nmb-values",
+          "about-nmb-and-trust/our-development-history"
+        ]
+      }
+    ]
+  }
+}
