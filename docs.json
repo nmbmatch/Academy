@@ -11,7 +11,10 @@
     "socials": {
       "x": "https://x.com/nmbmatch",
       "instagram": "https://instagram.com/nmb_match",
-      "youtube": "https://youtube.com/@nmbmatch"
+      "youtube": "https://youtube.com/@nmbmatch",
+      "facebook": "https://facebook.com/share/1BS7vrKEMQ",
+      "telegram": "https://t.me/nmbmatch",
+      "website": "https://nmbmatch.com"
     }
   },
   "contextual": {
@@ -107,5 +110,9 @@
         ]
       }
     ]
+  },
+  "logo": {
+    "light": "/images/LOGO.png",
+    "dark": "/images/WhiteLogo.png"
   }
 }
