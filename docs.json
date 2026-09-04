@@ -28,7 +28,7 @@
     "display": "header"
   },
   "navigation": {
-    "groups": [
+    "pages": [
       {
         "group": "Get Started",
         "pages": [
@@ -72,6 +72,17 @@
         ]
       },
       {
+        "group": "About NMB & Trust",
+        "pages": [
+          "about-nmb-and-trust",
+          "about-nmb-and-trust/about-nmb-match",
+          "about-nmb-and-trust/company-background",
+          "about-nmb-and-trust/entity-registration",
+          "about-nmb-and-trust/nmb-values",
+          "about-nmb-and-trust/our-development-history"
+        ]
+      },
+      {
         "group": "Tutorial Guide",
         "pages": [
           "tutorial-guide",
@@ -84,30 +95,13 @@
           "tutorial-guide/07-sell-usdt"
         ]
       },
-      {
-        "group": "Resources",
-        "pages": [
-          "frequent-ask-questions",
-          "nmb-glossary",
-          "what-is-usdt-and-usdc",
-          "news",
-          "upcoming-events",
-          "download",
-          "contact-support"
-        ]
-      },
-      {
-        "group": "About NMB & Trust",
-        "pages": [
-          "about-nmb-and-trust",
-          "about-nmb-and-trust/what-is-nmb-match",
-          "about-nmb-and-trust/about-nmb-match",
-          "about-nmb-and-trust/company-background",
-          "about-nmb-and-trust/entity-registration",
-          "about-nmb-and-trust/nmb-values",
-          "about-nmb-and-trust/our-development-history"
-        ]
-      }
+      "what-is-usdt-and-usdc",
+      "upcoming-events",
+      "news",
+      "download",
+      "frequent-ask-questions",
+      "contact-support",
+      "nmb-glossary"
     ]
   },
   "logo": {
