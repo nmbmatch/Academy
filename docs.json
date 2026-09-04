@@ -6,7 +6,10 @@
     "light": "#22C55E",
     "dark": "#15803D"
   },
-  "favicon": "/favicon.svg",
+  "favicon": {
+    "light": "/images/Logoonly.png",
+    "dark": "/images/Logoonly.png"
+  },
   "footer": {
     "socials": {
       "x": "https://x.com/nmbmatch",
@@ -43,7 +46,6 @@
       {
         "group": "Earnings & Growth",
         "pages": [
-          "earnings-and-growth",
           {
             "group": "Personal Earnings",
             "pages": [
