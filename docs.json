@@ -31,13 +31,12 @@
     "display": "header"
   },
   "navigation": {
-    "pages": [
+    "groups": [
       {
         "group": "Get Started",
         "pages": [
           "index",
           "nmb-match-llc/nmb-match",
-          "nmb-match-llc/core-business-map",
           "nmb-match-llc/reward-sources",
           "nmb-match-llc/your-growth-path-on-nmb-match",
           "nmb-match-llc/new-member-checklist"
@@ -46,6 +45,7 @@
       {
         "group": "Earnings & Growth",
         "pages": [
+          "untitled-page-2",
           {
             "group": "Personal Earnings",
             "pages": [
@@ -74,17 +74,6 @@
         ]
       },
       {
-        "group": "About NMB & Trust",
-        "pages": [
-          "about-nmb-and-trust",
-          "about-nmb-and-trust/about-nmb-match",
-          "about-nmb-and-trust/company-background",
-          "about-nmb-and-trust/entity-registration",
-          "about-nmb-and-trust/nmb-values",
-          "about-nmb-and-trust/our-development-history"
-        ]
-      },
-      {
         "group": "Tutorial Guide",
         "pages": [
           "tutorial-guide",
@@ -97,13 +86,39 @@
           "tutorial-guide/07-sell-usdt"
         ]
       },
-      "what-is-usdt-and-usdc",
-      "upcoming-events",
-      "news",
-      "download",
-      "frequent-ask-questions",
-      "contact-support",
-      "nmb-glossary"
+      {
+        "group": "Learn & FAQs",
+        "pages": [
+          "frequent-ask-questions",
+          "nmb-glossary",
+          "what-is-usdt-and-usdc"
+        ]
+      },
+      {
+        "group": "About NMB & Trust",
+        "pages": [
+          "nmb-match-llc/core-business-map",
+          "about-nmb-and-trust/company-background",
+          "about-nmb-and-trust/entity-registration",
+          "about-nmb-and-trust/nmb-values",
+          "about-nmb-and-trust/our-development-history"
+        ]
+      },
+      {
+        "group": "Resources",
+        "pages": [
+          "news",
+          "upcoming-events",
+          "download"
+        ]
+      },
+      {
+        "group": "Help & Safety",
+        "pages": [
+          "contact-support",
+          "untitled-page"
+        ]
+      }
     ]
   },
   "logo": {
