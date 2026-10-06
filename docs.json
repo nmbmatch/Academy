@@ -77,19 +77,12 @@
         "group": "Tutorial Guide",
         "pages": [
           "tutorial-guide",
-          "tutorial-guide/01-register",
           "tutorial-guide/register",
-          "tutorial-guide/02-buy-usdt",
           "tutorial-guide/buy-usdt",
-          "tutorial-guide/03-deposit",
           "tutorial-guide/deposit-usdt",
-          "tutorial-guide/04-start-tasks",
           "tutorial-guide/perform-task",
-          "tutorial-guide/05-secondary-pin",
           "tutorial-guide/set-transaction-pin",
-          "tutorial-guide/06-withdraw-usdt",
           "tutorial-guide/withdraw-usdt",
-          "tutorial-guide/07-sell-usdt",
           "tutorial-guide/sell-usdt"
         ]
       },
