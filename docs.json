@@ -69,8 +69,7 @@
               "earnings-and-growth/agent-rank/rank-requirements",
               "earnings-and-growth/agent-rank/rank-benefits"
             ]
-          },
-          "earnings-and-growth/rewards-overview"
+          }
         ]
       },
       {
@@ -121,6 +120,24 @@
         "pages": [
           "contact-support",
           "untitled-page"
+        ]
+      },
+      {
+        "group": "Rewards Center",
+        "pages": [
+          "earnings-and-growth/rewards-overview",
+          "earnings-and-growth/first-deposit",
+          "earnings-and-growth/360-day-attendance",
+          "earnings-and-growth/direct-referral-deposit",
+          "earnings-and-growth/weekly-rewards",
+          "earnings-and-growth/agent-rank-1",
+          "earnings-and-growth/outstanding-leadership",
+          "earnings-and-growth/team-activity",
+          "earnings-and-growth/monthly-leadership",
+          "earnings-and-growth/3-month-performance",
+          "earnings-and-growth/6-month-performance",
+          "earnings-and-growth/9-month-performance",
+          "earnings-and-growth/12-month-performance"
         ]
       }
     ]
